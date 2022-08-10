@@ -1,4 +1,6 @@
 { 
   "version" : 19,
-  "url-download" : "https://youtube.com"
+  "url-download" : "https://youtube.com",
+  "msj_en": "Hello",
+  "msj_es": "Hola"
 }
